@@ -86,6 +86,62 @@
           "payment": true,
           "printer": false
         }
+      },
+      {
+        "device_name": "13",
+        "device_health": {
+          "payment": false,
+          "printer": true
+        }
+      },
+      {
+        "device_name": "14",
+        "device_health": {
+          "payment": true,
+          "printer": true
+        }
+      },
+      {
+        "device_name": "15",
+        "device_health": {
+          "payment": false,
+          "printer": true
+        }
+      },
+      {
+        "device_name": "16",
+        "device_health": {
+          "payment": true,
+          "printer": false
+        }
+      },
+      {
+        "device_name": "17",
+        "device_health": {
+          "payment": true,
+          "printer": true
+        }
+      },
+      {
+        "device_name": "18",
+        "device_health": {
+          "payment": false,
+          "printer": false
+        }
+      },
+      {
+        "device_name": "19",
+        "device_health": {
+          "payment": true,
+          "printer": false
+        }
+      },
+      {
+        "device_name": "20",
+        "device_health": {
+          "payment": false,
+          "printer": true
+        }
       }
     ]
   }
